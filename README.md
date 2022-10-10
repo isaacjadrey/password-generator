@@ -1,12 +1,12 @@
 # Password Generator
 
 ### Description :
-- This is a simple password generator application.
+- This is a simple password generator application made in kotlin and android studio.
 - It contains only one activity with a single password generating fuction that generates a combination of lowercase, uppercase, numbers and symbol 
 characters.
 - The password generating function has a string length of characters it generators, and this can be made to generate any amount of string length
 which is specified when you call onto the password generator function.
-- It can easily be used as a starter password generator to provide uses with a password hint or tip when they are creating a password and can be updated to generate more complex passwords.
+- It can easily be used as a starter password generator to provide users with a strong password suggestion when they are creating a password and can be updated to generate more complex passwords.
 
 ### Sample Screen Images :
 <div>
